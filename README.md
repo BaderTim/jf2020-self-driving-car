@@ -1,5 +1,7 @@
 # jf2020-self-driving-car
-> "Jugend forscht" is a German competition where young students are able to compete against each other with scientific projects.
+> "Jugend forscht" is a German competition where young students are able to compete against each other with scientific projects.  
+> This project was part of the 2020 competition in the Südwürttemberg region in January.  
+> My first DHBW semester started right after I finished developing the car in winter 2019.
 
 The "Self Driving Car" project describes the attempt to implant artificial intelligence into a toy car. The self-built RC car is equipped with an on-board computer, more precisely a Raspberry PI 3B, and three ultrasonic sensors.  
 
