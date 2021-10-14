@@ -1,5 +1,5 @@
 # self-driving-car-jf-2020
-> "Jugend forscht" is a German competition where young students are able to compete against each other with scientific projects.  
+**Jugend forscht** *(Jf)* is a German competition where young students are able to compete against each other with scientific projects.  
 > This project was part of the 2020 competition in the Südwürttemberg region in January.  
 > My first DHBW semester started right after I finished developing the car in winter 2019.
 
